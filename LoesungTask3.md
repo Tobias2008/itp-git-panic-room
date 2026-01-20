@@ -16,4 +16,7 @@
 
  ## Aufgabe 4 
  
+ Oh nooo, Debug war doch wichtig -_-
+
+ durch ```git log``` schauen wo sie noch da war - dann mittels ```git checkout f58dc085f86d5cf87fd448f94b294a1665db9fc9 -- debug.log``` die Datei wiederhergestellt, jetzt nur noch commiten
  
